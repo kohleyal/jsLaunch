@@ -1,0 +1,10 @@
+{
+  "welcome" : "Welcome to the calculator app!",
+  "number1Text" : "What is the first number?",
+  "number2Text" : "What is the second number?",
+  "notValid" : "Hmm....not a valid number.",
+  "operatorSelect" : "What operation would you like to perform?\n1)Add 2) Subtract 3)Multiply or 4)Divide",
+  "calcResult" : "The result is",
+  "playAgain" : "Would you like to calculate more? 1)Yes 2)No",
+  "oneOrTwo" : "Please enter one or two"
+}
